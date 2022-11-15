@@ -15,7 +15,9 @@
 // 
 // UIC CS 211, Fall 2022
 #include <stdio.h>
-
+void bariy_bsatar2(){
+  printf("Bariy Satarov \n");
+}
 void reed_ekidan2() {
   printf("Dale Reed and Ellen Kidane\n");
   printf("We learned that git and GitHub are amazing, powerful tools!\n");
@@ -23,8 +25,9 @@ void reed_ekidan2() {
 
 int main()
 {
+
     printf("This code has been created by the students of CS 211, Fall 2022!\n\n");
-    
+    bariy_bsatar2();
     reed_ekidan2();
     
     return 0;
